@@ -8,4 +8,3 @@ The JavaScript code was added to the .js file to make the page interactive. Two 
 Now, when the page is scrolled, the section in view is highlighted both inside the window and in the navigation bar. Also when a section is clicked in the navigation bar, the page scrolls down to it. Finally, if the screen is resized where its width has become smaller than 600 pixels, the navigation bar gets hidden whith the current section being the only one shown on it and an icon appears. If the icon is clicked the navigation bar is shown vertically.
 
 
-submitted by Abdelrahman Ahmed Rashad
